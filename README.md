@@ -1,4 +1,4 @@
 # app_design
 Aplikacja
  
-Rafał Szostak11
+Rafał Szostak 18.11
